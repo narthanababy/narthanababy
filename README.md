@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/narthanababy/html.Profile/blob/main/IMG_3543.jpg" alt="Narthana Baby" width="150" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+<img src="https://raw.githubusercontent.com/narthanababy/narthanababy/main/assets/IMG_3543.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hello, I'm Narthana Baby 👋</h1>
@@ -36,7 +36,7 @@
   Mopla, Kozhikode
 
 - **High School**  
-  PHSS
+  PHSS, Kozhikode
 
 ---
 
